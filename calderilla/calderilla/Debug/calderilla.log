@@ -1,0 +1,5 @@
+﻿  main.cpp
+d:\uni_2_1\eda\practicas\calderilla\calderilla\main.cpp(81): warning C4018: '<': signed/unsigned mismatch
+d:\uni_2_1\eda\practicas\calderilla\calderilla\main.cpp(33): warning C4715: 'calculaValorMoneda': not all control paths return a value
+  calderilla.vcxproj -> D:\UNI_2_1\EDA\PRACTICAS\calderilla\Debug\calderilla.exe
+  calderilla.vcxproj -> D:\UNI_2_1\EDA\PRACTICAS\calderilla\Debug\calderilla.pdb (Partial PDB)
